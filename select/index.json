@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "色のない世界",
+  "base_artist": "Hotaru",
+  "createdAt": "2026-02-08T21:24:37.713275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "色のない世界",
+      "artist": "Masashi Hamauzu",
+      "has_synced": false,
+      "path": "select/01_色のない世界_Masashi_Hamauzu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "色のない世界",
+      "artist": "Hotaru",
+      "has_synced": false,
+      "path": "select/pl_01_色のない世界_Hotaru.txt"
+    }
+  ]
+}
